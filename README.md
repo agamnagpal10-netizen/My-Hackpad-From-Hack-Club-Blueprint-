@@ -26,7 +26,7 @@ The was the second step in making my macropad. As with the schematic, you can fi
 These are 3D files that are printable that hold the PCB and keys, which makes everything work together in the macropad
 
 ### 4. Keyboard_Keycaps
-These are all the pre-"Case_Files" files which are the dimensions of the actual Cherry MX Keycaps, so that the case actually fits on top of the keys.
+This is the file which are the dimensions of the actual Cherry MX Keycaps, so the case fits on top of the keys.
 
 ### 5. Case Screenshots (Fusion 360)
 
@@ -34,9 +34,7 @@ These are all the pre-"Case_Files" files which are the dimensions of the actual 
 <img width="573" height="717" alt="image" src="https://github.com/user-attachments/assets/a23f129d-d8a1-4b45-a55a-b5e8931a8d0d" />
 
 ### 6. main.py
-This is the code file for the keyboard, which allows the keyboard to be properly coded and work with my laptop. I lowkey just copied it from the Blueprint guide, but right now I am trying to learn Python fully so that I understand what is going on and can customize it properly.
-
-That is everything in this repository with every file, everything I worked on, and the whole process. I didn't make a journal because it said I don't have to.
+This is the code file for the keyboard, which allows the keyboard to be properly coded and work with my laptop. I just used the code from Blueprint, however I am still trying to learn how to code this properly so I can make future projects.
 
 # BOM
 1 Seeed XIAO RP2040
